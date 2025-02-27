@@ -4,10 +4,9 @@
 Passionate Full Stack Engineer with 8 years of experience crafting robust and user-friendly web applications. Expertise in Next.js, React, Django, Node.js, and GraphQL. Committed to delivering seamless user experiences through clean, efficient code and innovative problem-solving.
 
 ### 🚀 Key Strengths
-- Front-end development with Next.js and React
-- Back-end solutions using Django and Node.js
+- Front-end development with Next.js Vue.js React
+- Back-end solutions using Django Laravel Node.js
 - Database management and API development
-- UI/UX design and prototyping
 - Agile methodologies and cross-functional collaboration
 
 ## 🎓 Education & Certifications
