@@ -1,4 +1,4 @@
-# Full Stack Web Engineer
+# Full Stack Developer
 
 ## About Me
 Passionate Full Stack Engineer with 8 years of experience crafting robust and user-friendly web applications. Expertise in Next.js, React, Django, Node.js, and GraphQL. Committed to delivering seamless user experiences through clean, efficient code and innovative problem-solving.
