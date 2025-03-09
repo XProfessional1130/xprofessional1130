@@ -9,10 +9,6 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 - Database management and API development
 - Agile methodologies and cross-functional collaboration
 
-## 🎓 Education & Certifications
-- Bachelor's degree in Computer Science
-- Certifications in Next.js, React, and GraphQL
-
 ## 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
