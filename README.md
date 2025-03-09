@@ -7,6 +7,7 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 - Front-end development with Next.js Vue.js React
 - Back-end solutions using Django Laravel Node.js
 - Database management and API development
+- Automation by using Zapier, Make, and manual with several languages
 - Agile methodologies and cross-functional collaboration
 
 ## 🛠️ Tech Stack
