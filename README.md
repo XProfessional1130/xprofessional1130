@@ -11,13 +11,17 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 - Agile methodologies and cross-functional collaboration
 
 ## 🛠️ Tech Stack
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="center">
+  <h3>Main Skills</h3>
+    <h4> ✅ Languages: </h4>
+    <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,rust,go" /><br/>
+    <h4> ✅ Frameworks/Libraries: </h4>
+    <img src="https://skillicons.dev/icons?i=django,nodejs,laravel,react,next,angular,vue,nuxt,wordpress,shopify" /><br/>
+    <h4> ✅ Databases: </h4>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,graphql" /><br/>
+    <h4> ✅ Others: </h4>
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kafka,fastapi,git,tailwind,bootstrap" /><br/>
+</p>
 
 ### Glade to see you here
 <img src="https://komarev.com/ghpvc/?username=xprofessional1130&label=Profile%20views&color=0e75b6&style=flat" alt="xprofessional1130" />
