@@ -18,10 +18,10 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 ### ✅ Frameworks & Libraries  
 ![](https://skillicons.dev/icons?i=django,nodejs,laravel,nest,react,next,angular,vue,nuxt,wordpress,shopify)
 ### ✅ Databases  
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,graphql)
+![](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,graphql)
 
 ### ✅ DevOps & Others  
-![AWS](https://skillicons.dev/icons?i=aws,azure,docker,kafka,fastapi,git,tailwind,bootstrap)
+![](https://skillicons.dev/icons?i=aws,azure,docker,kafka,fastapi,git,tailwind,bootstrap,make,zapier)
 
 
 ### Glade to see you here
