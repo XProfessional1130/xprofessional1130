@@ -3,27 +3,27 @@
 ## About Me
 Passionate Full Stack Engineer with 8 years of experience crafting robust and user-friendly web applications. Expertise in Next.js, React, Django, Node.js, and GraphQL. Committed to delivering seamless user experiences through clean, efficient code and innovative problem-solving.
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" />
+
 ### 🚀 Key Strengths
 - Front-end development with Next.js Vue.js React
 - Back-end solutions using Django Laravel Node.js
-- Database management and API development
+- Database management and API development with SQL(MySQL, PostgreSQL), NoSQL(MongoDB), Supabase, GraphQL
 - Automation by using Zapier, Make, and manual with several languages
-- Agile methodologies and cross-functional collaboration
+- DevOps & Others Docker, Kafka, Kubernate, Redis, FastAPI, Celery, RabbitMQ
 
 ## 🛠️ Tech Stack
 ### ✅ Languages  
-![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Solidity](https://skillicons.dev/icons?i=solidity) ![Rust](https://skillicons.dev/icons?i=rust) ![Go](https://skillicons.dev/icons?i=go)
-
+(https://skillicons.dev/icons?i=python,js,ts,solidity,rust,go)
 ### ✅ Frameworks & Libraries  
-![Django](https://skillicons.dev/icons?i=django) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Laravel](https://skillicons.dev/icons?i=laravel) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=next) ![Angular](https://skillicons.dev/icons?i=angular)  
-![Vue.js](https://skillicons.dev/icons?i=vue) ![Nuxt.js](https://skillicons.dev/icons?i=nuxt) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![Shopify](https://skillicons.dev/icons?i=shopify)
-
+(https://skillicons.dev/icons?i=django,nodejs,laravel,nest,react,next,angular,vue,nuxt,wordpress,shopify)
 ### ✅ Databases  
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase) ![GraphQL](https://skillicons.dev/icons?i=graphql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,graphql)
 
 ### ✅ DevOps & Others  
-![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Kafka](https://skillicons.dev/icons?i=kafka) ![FastAPI](https://skillicons.dev/icons?i=fastapi)  
-![Git](https://skillicons.dev/icons?i=git) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![AWS](https://skillicons.dev/icons?i=aws,azure,docker,kafka,fastapi,git,tailwind,bootstrap)
 
 
 ### Glade to see you here
