@@ -11,17 +11,20 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 - Agile methodologies and cross-functional collaboration
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <h3>Main Skills</h3>
-    <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,rust,go" /><br/>
-    <h4> ✅ Frameworks/Libraries: </h4>
-    <img src="https://skillicons.dev/icons?i=django,nodejs,laravel,react,next,angular,vue,nuxt,wordpress,shopify" /><br/>
-    <h4> ✅ Databases: </h4>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,graphql" /><br/>
-    <h4> ✅ Others: </h4>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kafka,fastapi,git,tailwind,bootstrap" /><br/>
-</p>
+### ✅ Languages  
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Solidity](https://skillicons.dev/icons?i=solidity) ![Rust](https://skillicons.dev/icons?i=rust) ![Go](https://skillicons.dev/icons?i=go)
+
+### ✅ Frameworks & Libraries  
+![Django](https://skillicons.dev/icons?i=django) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Laravel](https://skillicons.dev/icons?i=laravel) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=next) ![Angular](https://skillicons.dev/icons?i=angular)  
+![Vue.js](https://skillicons.dev/icons?i=vue) ![Nuxt.js](https://skillicons.dev/icons?i=nuxt) ![WordPress](https://skillicons.dev/icons?i=wordpress) ![Shopify](https://skillicons.dev/icons?i=shopify)
+
+### ✅ Databases  
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Supabase](https://skillicons.dev/icons?i=supabase) ![GraphQL](https://skillicons.dev/icons?i=graphql)
+
+### ✅ DevOps & Others  
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Kafka](https://skillicons.dev/icons?i=kafka) ![FastAPI](https://skillicons.dev/icons?i=fastapi)  
+![Git](https://skillicons.dev/icons?i=git) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
 
 ### Glade to see you here
 <img src="https://komarev.com/ghpvc/?username=xprofessional1130&label=Profile%20views&color=0e75b6&style=flat" alt="xprofessional1130" />
