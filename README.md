@@ -5,8 +5,6 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" />
-
 ### 🚀 Key Strengths
 - Front-end development with Next.js Vue.js React
 - Back-end solutions using Django Laravel Node.js
@@ -16,9 +14,9 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 
 ## 🛠️ Tech Stack
 ### ✅ Languages  
-(https://skillicons.dev/icons?i=python,js,ts,solidity,rust,go)
+![](https://skillicons.dev/icons?i=python,js,ts,solidity,rust,go)
 ### ✅ Frameworks & Libraries  
-(https://skillicons.dev/icons?i=django,nodejs,laravel,nest,react,next,angular,vue,nuxt,wordpress,shopify)
+![](https://skillicons.dev/icons?i=django,nodejs,laravel,nest,react,next,angular,vue,nuxt,wordpress,shopify)
 ### ✅ Databases  
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,graphql)
 
