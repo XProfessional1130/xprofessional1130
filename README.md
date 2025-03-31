@@ -7,14 +7,14 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 
 ### 🚀 Key Strengths
 - Front-end development with Next.js Vue.js React
-- Back-end solutions using Django Laravel Node.js
+- Back-end solutions using Django Laravel Node.js .NET
 - Database management and API development with SQL(MySQL, PostgreSQL), NoSQL(MongoDB), Supabase, GraphQL
 - Automation by using Zapier, Make, and manual with several languages
 - DevOps & Others Docker, Kafka, Kubernate, Redis, FastAPI, Celery, RabbitMQ
 
 ## 🛠️ Tech Stack
 ### ✅ Languages  
-![](https://skillicons.dev/icons?i=python,js,ts,solidity,rust,go)
+![](https://skillicons.dev/icons?i=python,js,ts,php,csharp,solidity,rust,go)
 ### ✅ Frameworks & Libraries  
 ![](https://skillicons.dev/icons?i=django,nodejs,laravel,nest,react,next,angular,vue,nuxt,wordpress,shopify)
 ### ✅ Databases  
