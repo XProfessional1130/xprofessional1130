@@ -14,9 +14,9 @@ Passionate Full Stack Engineer with 8 years of experience crafting robust and us
 
 ## 🛠️ Tech Stack
 ### ✅ Languages  
-![](https://skillicons.dev/icons?i=python,js,ts,php,csharp,solidity,rust,go)
+![](https://skillicons.dev/icons?i=python,js,ts,php,c#,solidity,rust,go)
 ### ✅ Frameworks & Libraries  
-![](https://skillicons.dev/icons?i=django,nodejs,laravel,nest,react,next,angular,vue,nuxt,wordpress,shopify)
+![](https://skillicons.dev/icons?i=django,nodejs,laravel,nest,.net,react,next,angular,vue,nuxt,wordpress,shopify)
 ### ✅ Databases  
 ![](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,supabase,graphql)
 
