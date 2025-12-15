@@ -12,7 +12,4 @@ Passionate Full Stack Engineer with over 8 years of experience crafting robust a
 ### Glade to see you here
 <img src="https://komarev.com/ghpvc/?username=xprofessional1130&label=Profile%20views&color=0e75b6&style=flat" alt="xprofessional1130" />
 
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xprofessional1130" alt="xprofessional1130" /></a> </p>  
-
-![][https://drive.google.com/file/d/1Y373V5hdC2lRr5RHhkRYSk4ws6zaZqt0/view?usp=sharing](https://drive.google.com/file/d/1EYCck-1hwCOIAWXDstlQgoYC5Y1EFe7T/view?usp=sharing)
+[][https://drive.google.com/file/d/1Y373V5hdC2lRr5RHhkRYSk4ws6zaZqt0/view?usp=sharing](https://drive.google.com/file/d/1EYCck-1hwCOIAWXDstlQgoYC5Y1EFe7T/view?usp=sharing)
