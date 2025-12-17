@@ -4,8 +4,9 @@
 Passionate Full Stack Engineer with over 8 years of experience crafting robust and user-friendly web applications. Expertise in Next.js, React, Django, Node.js, and GraphQL. Committed to delivering seamless user experiences through clean, efficient code and innovative problem-solving.
 
 ### 🚀 Key Strengths
+- Mobile Developement with Flutter, React Native, Kotlin, Swift, Java
 - Front-end development with React.js, Next.js Vue.js, Redux, Zustand
-- Back-end solutions using Django Laravel Node.js
+- Back-end solutions using Django Laravel Node.js, Firebase
 - Database management and API development with SQL(MySQL, PostgreSQL), NoSQL(MongoDB), Supabase, GraphQL
 - DevOps & Others Docker, Kafka, Kubernate, Redis, FastAPI, Celery, RabbitMQ
 
